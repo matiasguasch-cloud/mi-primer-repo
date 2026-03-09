@@ -1,0 +1,47 @@
+[33mcommit 696c601fd9c6358dfa2b11bdeb39f66168f8f69a[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: Matias <matias.guasch@mayor.cl>
+Date:   Mon Mar 9 17:26:18 2026 -0300
+
+    se agrega un documento de texto llamado probando
+
+[33mcommit dd473d1d7ba7b625bc8daff97e59796b7780006a[m
+Author: Matias <matias.guasch@mayor.cl>
+Date:   Mon Mar 9 12:11:34 2026 -0300
+
+    renombrar archivo
+
+[33mcommit 1339354e057d319323e5f0e5529f82351c015eb0[m
+Author: Matias <matias.guasch@mayor.cl>
+Date:   Mon Mar 9 12:01:56 2026 -0300
+
+    Agregamos Calificaciones y Salarios
+
+[33mcommit d936bcc813af3c2f805d7ca5f893cd090872f5a7[m
+Author: Matias <matias.guasch@mayor.cl>
+Date:   Mon Mar 9 11:47:48 2026 -0300
+
+    agregar algo en carpeta
+
+[33mcommit 780712aaa3d40a89a25b769af59b4425ea685a56[m
+Author: Matias <matias.guasch@mayor.cl>
+Date:   Mon Mar 9 11:46:06 2026 -0300
+
+    Agregar notas y pendientes
+
+[33mcommit 2d15203fd08a4aa4c2a23e36d76358fd8bc45741[m
+Author: Matias <matias.guasch@mayor.cl>
+Date:   Mon Mar 9 11:41:21 2026 -0300
+
+    Agreegar nada
+
+[33mcommit 4de67e9082cd1a0241c58ed31caf2eb8fcf03108[m
+Author: Matias <matias.guasch@mayor.cl>
+Date:   Mon Mar 9 11:34:02 2026 -0300
+
+    Agregar 4 productos a la lista
+
+[33mcommit c5123b3d3c4e5c94cd73dcaea9be263179fc4c01[m
+Author: Matias <matias.guasch@mayor.cl>
+Date:   Mon Mar 9 11:25:36 2026 -0300
+
+    Se creo el archivo Lista.txt.txt
