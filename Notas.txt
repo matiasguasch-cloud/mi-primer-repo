@@ -1,1 +1,2 @@
 Nota para probar los cambios remotos en un repositorio.
+nota de prueba para git pull en remoto
